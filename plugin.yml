@@ -1,0 +1,9 @@
+name: NoGrief
+version: 2.0.0_dev
+main: me.nogrief.Main.NoGriefPlugin
+authors: ZeGeorge
+commands:
+  protect:
+    description: The Factions base command
+  cube:
+    description: Urat
